@@ -14,7 +14,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Login',
       theme: ThemeData(
-        // scaffoldBackgroundColor: const Color(0xFF00008B),
         primarySwatch: Colors.blue,
       ),
       home: const MyHomePage(title: 'Simple Login Page'),
